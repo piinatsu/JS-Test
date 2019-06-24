@@ -1,0 +1,6 @@
+{
+    "html.format.enable": false,
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true,
+    "editor.defaultFormatter": "HookyQR.beautify"
+}
