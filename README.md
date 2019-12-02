@@ -1,2 +1,5 @@
-# JS-Test
-I'm Learning JS, HTML, and CSS for the BrightFuture project.
+# JSBF
+BrightFuture project in JavaScript.
+
+CHANGELOG
+- Basic CRUD feature added. Further testing required.
